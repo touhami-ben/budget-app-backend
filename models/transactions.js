@@ -10,7 +10,7 @@ module.exports = [
         date: "12/29/2022",
         name: "oxtail",
         amount: 18,
-        from: "Caribbean Vibes",
+        from: "Caribbean food",
         category: "food",
       },
       {
